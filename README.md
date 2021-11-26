@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hello !! Me chamo Thiago e seja bem vindo(a) ao meu Github. 👋
+ - 🔭 Atualmente estudando linguagens atuais e atuando como desenvolvedor Delphi.
 <!--
 **THIAGO-A-SIMOES/THIAGO-A-SIMOES** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
