@@ -1,4 +1,4 @@
-### Hello !! Me chamo Thiago e seja bem-vindo(a) ao meu Github. 👋
+### =)  Olá, seja bem-vindo(a) ao meu cantinho. Espero que goste. 👋
  - 🔭 Atualmente estudando linguagens atuais e atuando como desenvolvedor Delphi.
 
 <div align="center">
