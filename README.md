@@ -1,5 +1,5 @@
 ### =)  Olá, seja bem-vindo(a) ao meu cantinho. Espero que goste. 👋
- - 🔭 Atualmente estudando linguagens atuais e atuando como desenvolvedor Delphi.
+ - 🔭 Atualmente estudando linguagens atuais e atuando como desenvolvedor Backend.
 
 <div align="center">
   <a href="https://github.com/THIAGO-A-SIMOES">
